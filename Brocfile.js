@@ -1,3 +1,3 @@
 var merge = require('broccoli-merge-trees');
 
-module.exports = merge(['public', 'assets']);
+module.exports = merge(['public', 'assets', 'images']);
