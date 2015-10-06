@@ -1,0 +1,19 @@
+{
+  "name": "2.2-timeline",
+  "version": "0.0.0",
+  "homepage": "https://github.com/scott6455/2.2-timeline",
+  "authors": [
+    "scott6455 <scottgreen555@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
